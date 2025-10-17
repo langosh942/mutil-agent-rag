@@ -1,0 +1,12 @@
+streamlit>=1.38.0
+langchain>=0.2.11
+langgraph>=0.1.2
+langchain-openai>=0.1.15
+langchain-community>=0.2.10
+sqlalchemy>=2.0.25
+psycopg2-binary>=2.9.9
+weaviate-client>=4.6.3
+duckduckgo-search>=6.1.0
+tiktoken>=0.7.0
+python-dotenv>=1.0.1
+pandas>=2.2.2
